@@ -1,4 +1,1 @@
-paularml
-JyzwBj1oIX4EcqRH
 
-mongodb+srv://paularml:JyzwBj1oIX4EcqRH@clustermulheres.oyvhjfn.mongodb.net/?retryWrites=true&w=majority
